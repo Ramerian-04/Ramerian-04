@@ -1,115 +1,58 @@
-# 👋 Hi, I'm **Abhiram Sekhar**
-
-### *Aspiring Data Scientist & AI/ML Developer | IoT & Embedded Systems Enthusiast*
-
----
-
-## 🚀 About Me
-
-Detail‑oriented and analytical **AI/ML & Data Science Engineer** with hands‑on experience in building real‑time IoT systems, signal processing pipelines, and ML-powered applications. Skilled in Python, embedded development, and cloud integration.
-
-I love combining **Machine Learning + IoT + Real‑Time Systems** to solve real-world problems with scalable and efficient solutions.
+<h1 align="center">Hi 👋, I'm Abhiram Sekhar</h1>
+<h3 align="center">Aspiring Data Scientist | AI/ML Developer | IoT & Embedded Systems Enthusiast</h3>
 
 ---
 
-## 🎓 Education
+## 👨‍💻 About Me
 
-**B.Tech in Computer Science & Engineering (2022 – Present)**
-Providence College of Engineering, Chengannur
-**CGPA:** 9.06
-
----
-
-## 🛠️ Skills
-
-### **Programming & CS Fundamentals**
-
-* Python, C, Java (Basics)
-* Data Structures, OOP, DBMS
-
-### **AI/ML & Data Science**
-
-* Machine Learning Algorithms
-* Neural Networks & Perceptron Models
-* Data Mining, ETL Pipelines
-
-### **IoT & Embedded Systems**
-
-* Raspberry Pi, Arduino, ESP32
-* Embedded Programming
-* LoRaWAN & Edge Computing
-
-### **Tools & Technologies**
-
-* Git/GitHub, Firebase
-* Signal Processing (FFT)
-* Agile Development
-
-### **Soft Skills**
-
-Leadership | Critical Thinking | Problem Solving | Creativity | Collaboration | Communication
+- 🔍 Passionate about **AI/ML, Data Science, IoT, and Embedded Systems**
+- 🎓 Pursuing **B.Tech in Computer Science** at Providence College of Engineering
+- 🛰 Currently working on **LoRa-based Offline Navigation & Messaging (TrailLink)**
+- 🚗 Built an **IoT-Enabled Doppler Radar Vehicle Speed Monitoring System**
+- 📧 Reach me at **aabhiramsekhar@gmail.com**
+- 🌐 Portfolio coming soon…
 
 ---
 
-## 📌 Projects
+## 🛠️ Tech Stack
 
-### **📡 Trail Link – Offline Navigation & Messaging Using LoRa & GPS (2025 – Present)**
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-* Building a LoRa‑based wireless network for off‑grid communication.
-* Real-time GPS location sharing optimized for low power.
-* Suitable for disaster zones & remote terrains.
+### **AI / ML**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Sklearn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### **🚗 IoT‑Enabled Doppler Radar Vehicle Speed Monitoring System (2025)**
+### **IoT & Embedded**
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge)
 
-* ML‑assisted speed detection using **HB100 Doppler Radar + Raspberry Pi**.
-* Implemented **FFT-based signal processing** for accurate readings.
-* Automated alerts with **email + camera capture + Firebase upload**.
-* Collaboration with **SMAP Technologies**.
-
----
-
-## 📄 Publication
-
-### **Radar-Assisted Vehicle Speed Monitoring System (2025)**
-
-Presented at **ICMTIF 2025**, Devaswom Board Pampa College.
-Demonstrated cost‑effective radar + ML system for scalable speed monitoring.
-
----
-
-## 🏆 Experience & Community Contribution
-
-* **IEEE** – Active member & IEEEXtreme participant.
-* **MuLearn (2024–2025)** – Cyber & IoT Lead; guided students in hands-on tech projects.
-* **GDG Providence** – Web Development Contributor.
+### **Tools & Platforms**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🎗️ Certifications
+## 📊 GitHub Analytics
 
-* Data Science & Machine Learning Internship – Techmagi (2025)
-* Ethical Hacking with IoT – Binario Learning Hub (2025)
-* Cybersecurity Workshop – MBITS & Hexinox (2025)
-* Unity 2D Game Development Bootcamp – Tiltedu (2024)
+<p align=\"center\">
+  <img src=\"https://github-readme-stats.vercel.app/api?username=Ramerian-04&show_icons=true&theme=tokyonight\" height=\"170\" />
+  <img src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=Ramerian-04&layout=compact&theme=tokyonight\" height=\"170\" />
+</p>
 
----
-
-## 🥇 Competitions
-
-* CTF – CareerLink 2.0 (2025)
-* IEEEXtreme 17.0 (2023) & 18.0 (2024)
+<p align=\"center\">
+  <img src=\"https://github-readme-streak-stats.herokuapp.com/?user=Ramerian-04&theme=tokyonight\" height=\"180\" />
+</p>
 
 ---
 
-## ⚽ Extra‑Curricular Activities
+## 🔗 Connect with Me
 
-* Volleyball – University Team Player
-* Football – College Team Member
-
----
-
-## 🔗 Connect With Me
-
-📧 **Email:** [aabhiramsekhar@gmail.com](mailto:aabhiramsekhar@gmail.com)
-🔗 **LinkedIn:** linkedin.com/in/abhiramsekhar
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhiram%20Sekhar-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abhiramsekhar)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aabhiramsekhar@gmail.com)
