@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Abhiram Sekhar</h1>
-<h3 align="center">Aspiring Data Scientist | AI/ML Developer | IoT & Embedded Systems Enthusiast</h3>
 
 ---
 
@@ -10,28 +9,20 @@
 - 🛰 Currently working on **LoRa-based Offline Navigation & Messaging (TrailLink)**
 - 🚗 Built an **IoT-Enabled Doppler Radar Vehicle Speed Monitoring System**
 - 📧 Reach me at **aabhiramsekhar@gmail.com**
-- 🌐 Portfolio coming soon…
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### **AI / ML**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Sklearn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### **IoT & Embedded**
 ![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge)
-
-### **Tools & Platforms**
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
