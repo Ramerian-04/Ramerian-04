@@ -6,8 +6,6 @@
 
 - 🔍 Passionate about **AI/ML, Data Science, IoT, and Embedded Systems**
 - 🎓 Pursuing **B.Tech in Computer Science** at Providence College of Engineering
-- 🛰 Currently working on **LoRa-based Offline Navigation & Messaging (TrailLink)**
-- 🚗 Built an **IoT-Enabled Doppler Radar Vehicle Speed Monitoring System**
 - 📧 Reach me at **aabhiramsekhar@gmail.com**
 
 ---
