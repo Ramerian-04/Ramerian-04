@@ -112,9 +112,4 @@ Demonstrated cost‑effective radar + ML system for scalable speed monitoring.
 
 📧 **Email:** [aabhiramsekhar@gmail.com](mailto:aabhiramsekhar@gmail.com)
 🔗 **LinkedIn:** linkedin.com/in/abhiramsekhar
-💻 **GitHub:** github.com/Ramerian-04
-📱 **Phone:** +91 8590217580
 
----
-
-## ⭐ If you like this profile, consider giving the repo a star!
