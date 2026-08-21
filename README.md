@@ -52,8 +52,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramerian-04&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramerian-04&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Ramerian-04&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ramerian-04&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 <p align="center">
