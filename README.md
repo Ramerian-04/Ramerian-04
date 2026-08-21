@@ -49,19 +49,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Ramerian-04&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ramerian-04&layout=compact&theme=tokyonight" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/preview.php?user=Ramerian-04&theme=tokyonight" height="180" />
-</p>
-
----
-
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abhiram%20Sekhar-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/abhiramsekhar)
